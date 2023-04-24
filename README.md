@@ -11,7 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
+- Solution URL: (https://www.frontendmentor.io/solutions/product-preview-card-5r5iInu4YY)
 - Live Site URL: (https://fabulous-heliotrope-7ff0ba.netlify.app/)
 
 ## My process
