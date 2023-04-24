@@ -11,8 +11,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)
-- Live Site URL: [Add live site URL here](https://magnificent-cajeta-486fd4.netlify.app/)
+- Solution URL: [Add solution URL here]()
+- Live Site URL: (https://fabulous-heliotrope-7ff0ba.netlify.app/)
 
 ## My process
 
