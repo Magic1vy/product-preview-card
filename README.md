@@ -24,12 +24,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
+Had experience using:
 
 ```html
   <picture>
     <source media="(min-width: 800px)" srcset="">
     <source srcset="">
-    <img class="product-image" src="" alt="">
+    <img src="" alt="">
   </picture>
 ```
 And have a good practice which Figma files.
