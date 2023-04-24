@@ -5,6 +5,7 @@ body{
     min-height: 100vh;
     background-color: #F3EAE3;
     font-family: 'Montserrat', sans-serif;
+    margin: 0;
 }
 main{
     background-color: white;
